@@ -21,7 +21,7 @@ public class PalindromeCheckerApp {
         if (word.equals(reversed)) {
             System.out.println("The string \"" + word + "\" is a Palindrome" );
         } else {
-            System.out.println("The string \"" + word + "\" is not a Palindrome" );
+            System.out.println("The string \"" + word + "\" is not a Palindrome " );
         }
     }
 }
