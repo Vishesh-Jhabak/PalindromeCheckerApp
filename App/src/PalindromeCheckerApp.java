@@ -19,7 +19,7 @@ public class PalindromeCheckerApp {
             reversed = reversed + original.charAt(i);
         }
         if (original.equals(reversed)) {
-            System.out.println("The string \"" + original + "\" is a Palindrome" );
+            System.out.println(" The string \"" + original + "\" is a Palindrome" );
         } else {
             System.out.println("The string \"" + original + "\" is not a Palindrome" );
         }
